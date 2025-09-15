@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on automation bots using n8n
+I code stuff , sometimes they break , most of the times they don't break :)
 
 
 ## 🌐 Socials:
