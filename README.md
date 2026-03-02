@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Ashmit%20Rana&fontColor=58a6ff&fontSize=70&fontAlignY=35&desc=Software%20Developer%20%7C%20CP%20%7C%20DSA%20%7C%20System%20Design&descAlignY=55&descSize=18&animation=fadeIn)
 
@@ -19,17 +19,26 @@
 
 ```js
 const ashmit = {
-    pronouns: "he" | "him",
-    location: "India 🇮🇳",
-    education: "3rd Year • B.Tech Computer Science",
-    
-    currentFocus: ["Data Structures & Algorithms", "System Design", "Competitive Programming"],
-    
-    languages: ["C++", "Python", "Java", "JavaScript"],
-    
-    askMeAbout: ["DSA", "System Design", "Competitive Programming", "Problem Solving"],
-    
-    funFact: "I think in O(log n) 🧠"
+  pronouns: "he" | "him",
+  location: "India 🇮🇳",
+  education: "3rd Year • B.Tech Computer Science",
+
+  currentFocus: [
+    "Data Structures & Algorithms",
+    "System Design",
+    "Competitive Programming",
+  ],
+
+  languages: ["C++", "Python", "Java", "JavaScript"],
+
+  askMeAbout: [
+    "DSA",
+    "System Design",
+    "Competitive Programming",
+    "Problem Solving",
+  ],
+
+  funFact: "I think in O(log n) 🧠",
 };
 ```
 
@@ -44,6 +53,7 @@ const ashmit = {
 <td align="center" width="33%">
 
 ### 🗡️ Primary Weapons
+
 <br>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -54,6 +64,7 @@ const ashmit = {
 <td align="center" width="33%">
 
 ### 🛠️ Tools & Frameworks
+
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -64,6 +75,7 @@ const ashmit = {
 <td align="center" width="33%">
 
 ### 🎯 Focus Areas
+
 <br>
 
 ![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
@@ -87,6 +99,7 @@ const ashmit = {
 <td align="center">
 
 <!-- REPLACE with your actual usernames -->
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ashmitrana_2k25/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ashmitrana)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashmit-portfolio-two.vercel.app/)
@@ -118,19 +131,19 @@ const ashmit = {
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=ashmitrana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="400px" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashmitrana24&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="400px" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmitrana&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="400px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmitrana24&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="400px" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitrana&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="350px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitrana24&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="350px" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashmitrana&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ashmitrana24&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 
 </div>
 
@@ -140,7 +153,7 @@ const ashmit = {
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmitrana&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmitrana24&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
 
 </div>
 
@@ -151,13 +164,14 @@ const ashmit = {
 ## 🤝 Connect
 
 <!-- REPLACE with your actual profile links -->
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmit-rana)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashmit-portfolio-two.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashmit.rana2019@gmail.com)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ashmitrana&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=ashmitrana24&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -179,4 +193,3 @@ const ashmit = {
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer)
-]]>
