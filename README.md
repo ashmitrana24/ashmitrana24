@@ -1,8 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Ashmit%20Rana&fontColor=58a6ff&fontSize=70&fontAlignY=35&desc=Software%20Developer%20%7C%20CP%20%7C%20DSA%20%7C%20System%20Design&descAlignY=55&descSize=18&animation=fadeIn)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:06B6D4,100:10B981&height=300&section=header&text=Ashmit%20Rana&fontColor=ffffff&fontSize=90&fontAlignY=40&desc=⚔️%20Software%20Developer%20%7C%20Competitive%20Programmer%20%7C%20System%20Architect%20⚔️&descAlignY=65&descSize=20&animation=scaleIn&stroke=06B6D4&strokeWidth=2" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%E2%9A%A1+Building+elegant+solutions+to+complex+problems;%F0%9F%94%A5+3rd+Year+%7C+Competitive+Programmer;%F0%9F%8E%AF+DSA+%7C+System+Design+%7C+Problem+Solving" alt="Typing SVG" /></a>
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%92%BB+I+build+%7C+I+compete+%7C+I+design+systems;%E2%9A%A1+1000%2B+Problems+Solved+%7C+3rd+Year+CSE;%F0%9F%8E%AF+Turning+O(n%C2%B2)+into+O(n+log+n)+since+Day+1" alt="Typing SVG" /></a>
 
 </div>
 
