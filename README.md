@@ -1,193 +1,182 @@
-![logo](https://github.com/ashmitrana/ashmitrana/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+<![CDATA[<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ashmit Rana</h1>
-<h3 align="center">A passionate Data Scientist and ML Engineer from 🇮🇳 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
-<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" >
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Ashmit%20Rana&fontColor=58a6ff&fontSize=70&fontAlignY=35&desc=Software%20Developer%20%7C%20CP%20%7C%20DSA%20%7C%20System%20Design&descAlignY=55&descSize=18&animation=fadeIn)
 
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=ashmitrana&label=Profile%20views&color=10b981&style=flat" alt="ashmitrana" /> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%E2%9A%A1+Building+elegant+solutions+to+complex+problems;%F0%9F%94%A5+3rd+Year+%7C+Competitive+Programmer;%F0%9F%8E%AF+DSA+%7C+System+Design+%7C+Problem+Solving" alt="Typing SVG" /></a>
 
-<a href="https://wakatime.com/@ashmitrana"> 
-  <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@ashmitrana" /> 
-</a> 
-<br>
-<img src="https://img.shields.io/badge/Computer%20Science-Undergraduate-6366f1?style=flat&logo=google-scholar&logoColor=white" alt="CS Undergraduate"/>
-<img src="https://img.shields.io/badge/Academic-3rd%20Year-ec4899?style=flat&logo=openbadges&logoColor=white" alt="Third Year"/>
-<br>
-<img src="https://img.shields.io/badge/AI%2FML-Developer-f97316?style=flat&logo=python&logoColor=white" alt="AI/ML Developer"/>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/ashmitrana"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ashmitrana">
-</p>
+</div>
 
-<h2><img height="30" src="https://media4.giphy.com/media/5quAQha5cHPayUytEh/giphy.gif?cid=ecf05e47dv4ewvx2qa2b2wgqa361owg5429ctklzlan3hmob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> About me:</h2>
+<!-- DARK ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
-#### Hi there! 👋
+---
 
-I'm Ashmit Rana passionate about technology and coding, a CSE(AI/ML) student pursuing my B.Tech at LPU and CSE(Data Science and Applications) student pursuing my B.S at IITM.
+<div align="center">
 
-<p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
-</p>
+## 🧑‍💻 `> whoami`
 
-#### 🌱 I'm Currently Learning:
+</div>
 
-- Diving into Data Structures and Algorithms (DSA) to sharpen my problem-solving skills.
-- Python to enhance my coding proficiency.
-- Also learning Java.
+```js
+const ashmit = {
+    pronouns: "he" | "him",
+    location: "India 🇮🇳",
+    education: "3rd Year • B.Tech Computer Science",
+    
+    currentFocus: ["Data Structures & Algorithms", "System Design", "Competitive Programming"],
+    
+    languages: ["C++", "Python", "Java", "JavaScript"],
+    
+    askMeAbout: ["DSA", "System Design", "Competitive Programming", "Problem Solving"],
+    
+    funFact: "I think in O(log n) 🧠"
+};
+```
 
-#### 👯 I’m Looking to:
+---
 
-- Connect with other students and developers.
-- Collaborate on interesting projects.
-- Learn from and contribute to the open-source community.
+<div align="center">
 
-#### 📫 How to Reach Me:
+## ⚡ Tech Arsenal
 
-- Email: ashmitrana@gmail.com
-- Website: ashmitrana.com
-
-#### ⚡ Fun Fact:
-
-I'm a Guiter enthusiast and believe in the power of technology to help mankind. Looking forward to connecting with like-minded individuals and learning together!
-
-Happy coding! 🚀
-
-<h2><img height="30" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlkMmJxM3F0ZzVnaHBpYW9yc2w4c2hkOXl0MnpjNzdwZmZiZWk2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RTUOrALrZCuPydY4sf/giphy.gif"/> Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/ashmitrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashmitrana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashmitrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmitrana" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22981426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22981426" height="30" width="40" /></a>
-<a href="https://kaggle.com/ashmitrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashmitrana" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ashmitrana" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="ashmitrana" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/ashmitrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashmitrana" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashmitrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashmitrana" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashmitrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashmitrana" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ashmitrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/e10751ddb9a7926eee083c77d1a99ddca64a2c04/icons/hackerearth.svg" alt="@ashmitrana" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/ashmitrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashmitrana" height="30" width="40" /></a>
-</p>
-
-<h2><img height="45" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>Languages and Tools:</h2>
 <table>
-  <tr>
-    <th align="center">Web Development</th>
-    <th align="center">Backend & Python Stack</th>
-    <th align="center">Data Science & ML</th>
-    <th align="center">Databases</th>
-    <th align="center">Tools & Deployment</th>
-    <th align="center">Languages</th>
-  </tr>
+<tr>
+<td align="center" width="33%">
 
-  <tr>
-<!-- WEB DEV -->
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" height="40"/>
-      <img src="https://skillicons.dev/icons?i=css" height="40"/><br/>
-      <img src="https://skillicons.dev/icons?i=js" height="40"/>
-      <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/><br/>
-      <img src="https://skillicons.dev/icons?i=vue" height="40"/>
-    </td>
+### 🗡️ Primary Weapons
+<br>
 
-<!-- BACKEND -->
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" height="40"/>
-      <img src="https://skillicons.dev/icons?i=django" height="40"/><br/>
-      <img src="https://skillicons.dev/icons?i=flask" height="40"/>
-      <img src="https://skillicons.dev/icons?i=anaconda" height="40"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
-      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40"/>
-    </td>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<!-- DATA SCIENCE -->
-   <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-      <img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/><br/>
-      <img src="https://skillicons.dev/icons?i=opencv" height="40"/>
-      <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br/>
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
-    </td>
+</td>
+<td align="center" width="33%">
 
-<!-- DATABASES -->
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-      <img src="https://skillicons.dev/icons?i=sqlite" height="40"/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
-    </td>
+### 🛠️ Tools & Frameworks
+<br>
 
-<!-- TOOLS -->
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" height="40"/>
-      <img src="https://skillicons.dev/icons?i=linux" height="40"/><br/>
-      <img src="https://skillicons.dev/icons?i=heroku" height="40"/>
-      <img src="https://skillicons.dev/icons?i=figma" height="40"/>
-    </td>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<!-- LANGUAGES -->
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" height="40"/>
-      <img src="https://skillicons.dev/icons?i=py" height="40"/>
-    </td>
-  </tr>
+</td>
+<td align="center" width="33%">
+
+### 🎯 Focus Areas
+<br>
+
+![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-6C63FF?style=for-the-badge&logo=blueprintjs&logoColor=white)
+![CP](https://img.shields.io/badge/Competitive_Programming-FFA116?style=for-the-badge&logo=codeforces&logoColor=white)
+
+</td>
+</tr>
 </table>
 
-<h2 align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ241djRsZXUzaDI1OGQycXlwOWw3b3FhajA5cTQwaHE0NGJ5eGU4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoN2bykCKNOrpNxIlT/giphy.gif" width="40" style="vertical-align: middle;"/>
-  Coding Profiles Stats:
-</h2>
+</div>
 
-<p> <img align="left" src="https://leetcard.jacoblin.cool/ashmitrana?ext=contest" alt="ashmitrana" width="370px"> </p>
-<p> <img align="right" src="https://codeforces-readme-stats.vercel.app/api/card?username=ashmitrana&theme=tokyonight" alt="ashmitrana"> </p>
-<a href="https://www.geeksforgeeks.org/user/ashmitrana/">
-  <img align="center" src="https://gfgstatscard.vercel.app/ashmitrana" alt="GFG stats" />
-</a>
-
-<h2><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> GitHub Stats:</h2>
+---
 
 <div align="center">
 
-  <table>
-    <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=ashmitrana&rank_icon=percentile&show=prs_merged,prs_merged_percentage"  width="45%" alt="stats graph"  />
-    </p>
-        <td align="center">
-          <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
-          <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashmitrana" alt="GitHub Streak Stats"/>
-          <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="130px" height="150px">
-        </td>
-      </tr>
-    </table>
-  
-  </div>
-    </tr>
-  </table>
+## 🏆 Competitive Programming
+
+<table>
+<tr>
+<td align="center">
+
+<!-- REPLACE with your actual usernames -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ashmitrana_2k25/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ashmitrana)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashmit-portfolio-two.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+<!-- REPLACE with your actual LeetCode & Codeforces usernames in the URLs below -->
+<table>
+<tr>
+<td>
+<img src="https://leetcard.jacoblin.cool/ashmitrana_2k25?theme=dark&font=JetBrains%20Mono&ext=contest" width="400px"/>
+</td>
+<td>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=ashmitrana&theme=github_dark" width="400px"/>
+</td>
+</tr>
+</table>
 
 </div>
 
-<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashmitrana&layout=compact&theme=default" /></p>
+---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashmitrana" alt="ashmitrana" /></a> </p>
-
-<h2><img height="50" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"/> GitHub Contributions:</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmitrana&bg_color=ffffff&color=000000&line=007acc&point=ff6f61&area=true&hide_border=false" style="border-radius: 15px;">
+
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=ashmitrana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="400px" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmitrana&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="400px" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitrana&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="350px" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashmitrana&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
 </div>
 
-<h2 align="center">🌟 Thought of the Day 🌟</h2>
+---
 
-<p align="center">
-   <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=f0f0f0&author_color=000000&quote_color=333333">
-</p>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## 📈 Contribution Graph
 
-### ...Show some ❤️ by starring some of the repositories 😊!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmitrana&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
 
 </div>
 
-<p align="center">
-<img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+---
+
+<div align="center">
+
+## 🤝 Connect
+
+<!-- REPLACE with your actual profile links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmit-rana)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashmit-portfolio-two.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashmit.rana2019@gmail.com)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ashmitrana&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+ ╔══════════════════════════════════════════════════════╗
+ ║                                                      ║
+ ║   "First, solve the problem.                         ║
+ ║    Then, write the code."  — John Johnson             ║
+ ║                                                      ║
+ ╚══════════════════════════════════════════════════════╝
+```
+
+### ⭐ Star my repos if you find them useful!
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer)
+]]>
