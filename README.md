@@ -1,34 +1,3 @@
-ProfileMe.dev
-
-
-Introduction
-Skills
-Socials
-Badges
-Support
-Go home
-© 2026 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-
-Previous
-buymeacoffee
-Buy Me a Coffee:
-yourname
-kofi
-Ko-fi:
-yourname
-
-Previous
-Reorder Sections
-Preview
-Markdown
-Copy
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ashmit Rana
 ====================================================================================================================================
 
@@ -79,5 +48,3 @@ Let's connect.
 <a href="http://www.github.com/ashmitrana24"><img src="https://github-readme-stats.vercel.app/api?username=ashmitrana24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ashmitrana24's GitHub stats" /></a>
 
 <a href="https://github.com/ashmitrana24" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitrana24&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
