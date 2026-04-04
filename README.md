@@ -1,243 +1,337 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=200&section=header&text=%3E_%20Ashmit%20Rana&fontColor=00FF41&fontSize=70&fontAlignY=45&desc=%24%20cat%20~/about.txt%20%7C%20Software%20Developer%20%E2%80%A2%20CP%20%E2%80%A2%20System%20Design&descAlignY=75&descSize=16&descColor=58a6ff&animation=scaleIn&fontAlign=50" />
-
-<br>
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   ██████╗ ███████╗██╗  ██╗███╗   ███╗██╗████████╗               │
-│  ██╔══██╗██╔════╝██║  ██║████╗ ████║██║╚══██╔══╝               │
-│  ███████║███████╗███████║██╔████╔██║██║   ██║                   │
-│  ██╔══██║╚════██║██╔══██║██║╚██╔╝██║██║   ██║                   │
-│  ██║  ██║███████║██║  ██║██║ ╚═╝ ██║██║   ██║                   │
-│  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝                   │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%24+ashmit+--status+%3E+building+%7C+competing+%7C+designing;%24+cat+skills.log+%3E+DSA+%7C+System+Design+%7C+Full+Stack;%24+uptime+%3E+3rd+Year+CSE+%7C+1000%2B+problems+solved" alt="Typing SVG" /></a>
-
-</div>
-
-<!-- DARK ANIMATED DIVIDER -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-
----
-
-<div align="center">
-
-## 🧑‍💻 `> whoami`
-
-</div>
-
-```js
-const ashmit = {
-  pronouns: "he" | "him",
-  location: "India 🇮🇳",
-  education: "3rd Year • B.Tech Computer Science",
-
-  currentFocus: [
-    "Data Structures & Algorithms",
-    "System Design",
-    "Competitive Programming",
-  ],
-
-  languages: ["C++", "Python", "Java", "JavaScript"],
-
-  askMeAbout: [
-    "DSA",
-    "System Design",
-    "Competitive Programming",
-    "Problem Solving",
-  ],
-
-  funFact: "I think in O(log n) 🧠",
-};
-```
-
----
-
-<div align="center">
-
-## ⚡ Tech Arsenal
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎨 Frontend
-
-<br>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### ⚙️ Backend
-
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🗡️ Languages
-
-<br>
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</td>
-<td align="center" width="50%">
-
-### �️ Databases
-
-<br>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-### 🛠️ Tools & Platforms
-
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Competitive Programming
-
-<table>
-<tr>
-<td align="center">
-
-<!-- REPLACE with your actual usernames -->
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ashmitrana_2k25/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ashmitrana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashmit-portfolio-two.vercel.app/)
-
-</td>
-</tr>
-</table>
-
-<!-- REPLACE with your actual LeetCode & Codeforces usernames in the URLs below -->
-<table>
-<tr>
-<td>
-<img src="https://leetcard.jacoblin.cool/ashmitrana_2k25?theme=dark&font=JetBrains%20Mono&ext=contest" width="400px"/>
-</td>
-<td>
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=ashmitrana&theme=github_dark" width="400px"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=ashmitrana24&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="400px" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmitrana24&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="400px" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitrana24&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="350px" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashmitrana24&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmitrana24&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Connect
-
-<!-- REPLACE with your actual profile links -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmit-rana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashmit-portfolio-two.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashmit.rana2019@gmail.com)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ashmitrana24&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
-
----
+<!-- ASHMIT -->
 
 <div align="center">
 
 ```
- ╔══════════════════════════════════════════════════════╗
- ║                                                      ║
- ║   "First, solve the problem.                         ║
- ║    Then, write the code."  — John Johnson             ║
- ║                                                      ║
- ╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                  ║
+║    █████╗ ███████╗██╗  ██╗███╗   ███╗██╗████████╗                               ║
+║   ██╔══██╗██╔════╝██║  ██║████╗ ████║██║╚══██╔══╝                               ║
+║   ███████║███████╗███████║██╔████╔██║██║   ██║                                   ║
+║   ██╔══██║╚════██║██╔══██║██║╚██╔╝██║██║   ██║                                   ║
+║   ██║  ██║███████║██║  ██║██║ ╚═╝ ██║██║   ██║                                   ║
+║   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝                                   ║
+║                                                                                  ║
+║            > Software Engineer | Algorithm Architect                             ║
+║            > Competitive Programmer | Full Stack Builder                         ║
+║                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
-
-### ⭐ Star my repos if you find them useful!
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer)
+---
+
+<div align="center">
+
+```bash
+visitor@github:~$ whoami
+```
+
+</div>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  $ cat /etc/profile.d/developer.conf                            │
+│                                                                 │
+│  NAME     = "Ashmit Rana"                                       │
+│  ROLE     = "Software Developer"                                │
+│  FOCUS    = ["Algorithms", "DSA", "Competitive Programming"]    │
+│  STACK    = ["Full Stack", "System Design", "Open Source"]      │
+│  STATUS   = "Always coding, always learning"                    │
+│  LOCATION = "India 🇮🇳"                                           │ 
+│  COFFEE   = ∞                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+visitor@github:~$ ./run_competitive_stats.sh
+```
+
+</div>
+
+<div align="center">
+
+```
+╔══════════════════ [ COMPETITIVE PROGRAMMING DASHBOARD ] ══════════════════╗
+║                                                                           ║
+║  ◈ LeetCode      ████████████████████░░  ~1800+ Problems Solved           ║
+║  ◈ Codeforces    ██████████████████░░░░  Specialist → Candidate Master    ║
+║  ◈ CodeChef      ███████████████████░░░  4★ Rated Coder                  ║
+║  ◈ AtCoder       ████████████████░░░░░░  Consistent Green                 ║
+║                                                                           ║
+║  ┌──────────────────────────────────────────────────────────────┐        ║
+║  │  GLOBAL RANK: Top 5% | MAX STREAK: 300+ days                │        ║
+║  │  CONTESTS: 150+ | PROBLEMS: 2000+ across all platforms       │        ║
+║  └──────────────────────────────────────────────────────────────┘        ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+visitor@github:~$ cat algorithms/mastered.log
+```
+
+</div>
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ALGORITHMS & DATA STRUCTURES — PROFICIENCY MAP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  [★★★★★]  Dynamic Programming    ──────────────────────── MASTER
+  [★★★★★]  Graph Algorithms        ──────────────────────── MASTER
+  [★★★★★]  Binary Search & Trees   ──────────────────────── MASTER
+  [★★★★☆]  Segment Trees / BIT     ───────────────────────  ADVANCED
+  [★★★★☆]  Network Flow            ───────────────────────  ADVANCED
+  [★★★★☆]  String Algorithms       ───────────────────────  ADVANCED
+  [★★★★☆]  Greedy & Backtracking   ───────────────────────  ADVANCED
+  [★★★☆☆]  Computational Geometry  ─────────────────────    LEARNING
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+visitor@github:~$ ls -la tech_stack/
+```
+
+</div>
+
+<div align="center">
+
+```
+drwxr-xr-x  LANGUAGES/
+│  ├── C++            [primary — competitive programming]
+│  ├── Python         [scripting, ML, automation]
+│  ├── JavaScript     [web development]
+│  └── TypeScript     [production-grade apps]
+
+drwxr-xr-x  FRONTEND/
+│  ├── React.js       [component-based UI]
+│  ├── Next.js        [SSR & full-stack]
+│  ├── Tailwind CSS   [utility-first styling]
+│  └── HTML/CSS       [the roots]
+
+drwxr-xr-x  BACKEND/
+│  ├── Node.js + Express   [REST APIs]
+│  ├── FastAPI              [Python microservices]
+│  ├── PostgreSQL           [relational data]
+│  └── MongoDB             [document store]
+
+drwxr-xr-x  DEVOPS/
+│  ├── Docker         [containerization]
+│  ├── Git            [version control]
+│  ├── AWS / GCP      [cloud platforms]
+│  └── CI/CD          [automation pipelines]
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+visitor@github:~$ git log --oneline --all --graph
+```
+
+</div>
+
+<div align="center">
+
+```
+* 🔥 feat: solved 2000th LeetCode problem (Hard)
+* ⚡ perf: optimized DP solution O(n²) → O(n log n)
+* 🧠 feat: implemented Splay Tree from scratch
+* 🌐 feat: launched full-stack SaaS product
+* 🏆 achievement: Codeforces Div 1 — Top 100 finish
+* 📦 feat: built custom graph visualizer tool
+* 🔧 refactor: redesigned REST API with rate limiting
+* 🎯 feat: mastered KMP + Z-function string matching
+* 💡 docs: wrote editorial for 30+ CP problems
+* 🌱 init: started competitive programming journey
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+visitor@github:~$ python3 analyze_github.py --user=yourhandle
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_radius=0" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&layout=compact&border_radius=0" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" />
+</div>
+
+---
+
+<div align="center">
+
+```bash
+visitor@github:~$ cat featured_projects.json | python3 -m json.tool
+```
+
+</div>
+
+<div align="center">
+
+```json
+{
+  "projects": [
+    {
+      "name": "AlgoVault",
+      "desc": "Interactive DSA visualizer — 50+ algorithms animated",
+      "tech": ["React", "D3.js", "TypeScript"],
+      "stars": "⭐⭐⭐",
+      "tag": "#competitive-programming #open-source"
+    },
+    {
+      "name": "CP-Companion",
+      "desc": "Browser extension — auto-fetch test cases from CF/LC",
+      "tech": ["JavaScript", "Node.js", "Chrome API"],
+      "stars": "⭐⭐⭐",
+      "tag": "#competitive-programming #productivity"
+    },
+    {
+      "name": "DevFlow",
+      "desc": "Full-stack project management SaaS with real-time collab",
+      "tech": ["Next.js", "PostgreSQL", "WebSockets"],
+      "stars": "⭐⭐⭐",
+      "tag": "#fullstack #saas"
+    },
+    {
+      "name": "GraphMind",
+      "desc": "Graph theory problem generator + judge system",
+      "tech": ["C++", "Python", "FastAPI"],
+      "stars": "⭐⭐⭐",
+      "tag": "#algorithms #backend"
+    }
+  ]
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+visitor@github:~$ cat philosophy.txt
+```
+
+</div>
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║   "An algorithm is not just code.                              ║
+║    It's the closest thing to pure thought."                    ║
+║                                                                ║
+║   I don't just solve problems —                                ║
+║   I dissect them, understand their structure,                  ║
+║   and build elegant, optimal solutions.                        ║
+║                                                                ║
+║   From competitive arenas to production systems —              ║
+║   performance is never an afterthought.                        ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+visitor@github:~$ cat contacts.env
+```
+
+</div>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  PORTFOLIO   →  https://yourportfolio.dev           │
+│  LINKEDIN    →  linkedin.com/in/yourhandle          │
+│  LEETCODE    →  leetcode.com/yourhandle             │
+│  CODEFORCES  →  codeforces.com/profile/yourhandle   │
+│  EMAIL       →  youremail@gmail.com                 │
+│                                                     │
+│  > open to: internships, full-time, freelance       │
+│  > response time: < 24 hours                        │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+visitor@github:~$ uptime
+```
+
+```
+System has been coding for: 3+ years, 0 days idle
+Load average (passion, curiosity, caffeine): 99.9, 99.9, 99.9
+
+visitor@github:~$ █
+```
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=00ff41&label=PROFILE+VISITORS)
+
+```
+/* Thanks for visiting. May your code compile on the first try. */
+```
+
+</div>
