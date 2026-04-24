@@ -8,7 +8,7 @@
 - 🌱 <samp>I'm currently diving deeper into Advanced Algorithms & System Design
 - 🤔 <samp>I'm looking to collaborate on open-source CP/Algorithm projects
 - ⚡ <samp>Fun fact: I believe every real-world problem has an algorithmic solution waiting to be discovered.
-- 📫 <samp>How to reach me ashmitrana@gmail.com
+- 📫 <samp>How to reach me ashmit.rana2019@gmail.com
 
 <h3><b><samp>Connect with Me</samp></b></h3>
 
