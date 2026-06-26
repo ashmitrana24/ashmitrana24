@@ -1,9 +1,9 @@
 <h1 align="center">Hey Everyone! 👋, I'm Ashmit Rana</h1>
-<h3 align="center">Competitive Programmer · Backend Engineer · Open Source Author · CSE '26</h3>
+<h3 align="center">Competitive Programmer · Backend Engineer · Open Source Author · CSE '27</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmitrana&label=Profile%20views&color=0e75b6&style=flat" alt="ashmitrana" /> </p>
 
-- 👷 <samp>Final-year B.Tech CSE at LPU (CGPA: 8.18) — targeting SDE-1 roles at product companies in 2026
-- ⚔️ <samp>Competitive Programmer — 1200+ problems | LeetCode 1609 | Codeforces 1241 | 75+ contests | 98-day streak
+- 👷 <samp>Final-year B.Tech CSE student — targeting SDE-1 roles at product companies in 2026
+- ⚔️ <samp>Competitive Programmer — 1200+ problems | LeetCode 1609 | Codeforces 1241 | 75+ contests
 - 🛠️ <samp>Ex-SDE Intern @ Ardrabyte — built AML pipeline processing 10K+ events/sec with Redis, Stripe & Docker
 - 🚀 <samp>Open-Source npm Author — published nlsql: Natural Language → SQL via Groq Llama 3.3 + live schema introspection
 - 🌱 <samp>Currently mastering Spring Boot · Spring MVC · Spring Data JPA · Hibernate | Advanced System Design
