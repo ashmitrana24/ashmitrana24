@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            241 Commits
+                            242 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -428,14 +428,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.10451893963017" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="318.10451893963017" y="0" width="247.25814005759145" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="565.3626589972216" y="0" width="103.34855297671513" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="668.7112119739368" y="0" width="84.63454027458904" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="753.3457522485259" y="0" width="50.61776061776062" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="803.9635128662865" y="0" width="49.520104638970835" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="853.4836175052573" y="0" width="37.15317158931911" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="890.6367890945764" y="0" width="29.363210905423642" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="317.5878373258189" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="317.5878373258189" y="0" width="246.85653075238952" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="564.4443680782084" y="0" width="103.18068897618137" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="667.6250570543898" y="0" width="85.99138353884662" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="753.6164405932365" y="0" width="50.53554466455543" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="804.1519852577919" y="0" width="49.439671554693206" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="853.5916568124851" y="0" width="37.09282550961245" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="890.6844823220976" y="0" width="29.31551767790249" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2657,7 +2657,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>topoteretes/cognee</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.</div>
@@ -2989,7 +2989,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2026, 09:49:32 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jul 2026, 13:06:45 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
