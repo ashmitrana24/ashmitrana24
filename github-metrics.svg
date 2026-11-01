@@ -2584,7 +2584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ashmitrana24/Contract-Sentinel</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Contract integrity and risk analysis pipeline. Detects post-signing tampering, internal inconsistencies, and unfair clauses in legal PDFs, with explainable findings and measured precision/recall on a labeled forgery benchmark.</div>
@@ -3013,7 +3013,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2026, 18:28:59 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 1 Nov 2026, 23:53:16 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
